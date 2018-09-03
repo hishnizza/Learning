@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestAll" duration-ms="24" started-at="2018-08-06T10:27:43Z" finished-at="2018-08-06T10:27:43Z">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="24" started-at="2018-08-06T10:27:43Z" finished-at="2018-08-06T10:27:43Z">
+      <class name="testNGCommandLine.Test">
+        <test-method status="PASS" signature="set()[pri:0, instance:testNGCommandLine.Test@4f4a7090]" name="set" duration-ms="6" started-at="2018-08-06T13:27:43Z" finished-at="2018-08-06T13:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+      </class> <!-- testNGCommandLine.Test -->
+    </test> <!-- test -->
+  </suite> <!-- TestAll -->
+</testng-results>
